@@ -1,0 +1,7 @@
+
+# List of Python Modules
+pandas
+numpy
+boto3
+pyarrow
+fastparquet
